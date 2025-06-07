@@ -1,0 +1,20 @@
+{
+  "name": "codelab-juan-gutierrez",
+  "version": "1.0.0",
+  "description": "It's a repository for my learning and experimental coding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMaker9510/codelab-juan-gutierrez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMaker9510/codelab-juan-gutierrez/issues"
+  },
+  "homepage": "https://github.com/JuanMaker9510/codelab-juan-gutierrez#readme"
+}
