@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JuanMaker9510/codelab-juan-gutierrez/issues"
   },
-  "homepage": "https://github.com/JuanMaker9510/codelab-juan-gutierrez#readme"
+  "homepage": "https://github.com/JuanMaker9510/codelab-juan-gutierrez#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
